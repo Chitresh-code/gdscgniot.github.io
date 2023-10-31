@@ -1,1 +1,0 @@
-![gdscgniot.github.io](https://socialify.git.ci/gdscgniot/gdscgniot.github.io/image?description=1&font=Raleway&forks=1&issues=1&language=1&logo=https://avatars.githubusercontent.com/u/149301775?s=400&u=b8628d5525dd5da9376a374dbbf01254862c1eb7&v=4.png&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
